@@ -1,0 +1,12 @@
+# OFCA Crawler Downloads
+ofca_crawl/
+*_crawl/
+test_crawl/
+
+# Log files
+*.log
+crawl_log.txt
+
+# Temporary files
+*.tmp
+*.temp
