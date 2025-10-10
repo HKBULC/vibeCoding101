@@ -1,0 +1,359 @@
+page,sentence,citations
+02,"Noah Chomsky, one of the first linguists of twelfth century that started
+syntactic theories, marked a unique position in the field of theoretical linguistics because he
+revolutionized the area of syntax (Chomsky, 1965) [23]","[23]; (Chomsky, 1965)"
+04,"3716                                            Multimedia Tools and Applications (2023) 82:3713–3744
+
+
+Phonology is “the study of sound pertaining to the system of language” whereas Lass1998
+[66]wrote that phonology refers broadly with the sounds of language, concerned with sub-
+discipline of linguistics, behavior and organization of sounds",[66]
+05,"For example,
+in the sentences “ram beats shyam in a competition” and “shyam beats ram in a competition”,
+only syntax is different but convey different meanings [139]",[139]
+05,"Liddy, 2001) [68]",[68]
+05,"That is why, to get the proper meaning of the sentence, the appropriate interpre-
+tation is considered by looking at the rest of the sentence [44]",[44]
+05,"It focuses on the properties
+of the text that convey meaning by interpreting the relations between sentences and uncovering
+linguistic structures from texts at several levels (Liddy,2001) [68]",[68]
+06,"When a sentence is not specific and the context does not provide any specific
+information about that sentence, Pragmatic ambiguity arises (Walton, 1996) [143]","[143]; (Walton, 1996)"
+06,"[112] purposed a novel modular system for cross-lingual event extraction
+for English, Dutch, and Italian Texts by using different pipelines for different languages",[112]
+07,"The ambiguity can be solved by various methods such as
+Minimizing Ambiguity, Preserving Ambiguity, Interactive Disambiguation and Weighting
+Ambiguity [125]",[125]
+07,"2015, Umber & Bajwa 2011) [39, 46, 65, 125, 139]","[39, 46, 65, 125, 139]"
+08,"The only requirement is the
+speaker must make sense of the situation [91]",[91]
+08,"Russian and
+English were the dominant languages for MT (Andreev,1967) [4]",[4]
+08,"But later, some MT production systems were providing output to their customers
+(Hutchins, 1986) [60]","[60]; (Hutchins, 1986)"
+08,", 1961) [51]",[51]
+08,"LUNAR (Woods,1978) [152] and
+Winograd SHRDLU were natural successors of these systems, but they were seen as
+stepped-up sophistication, in terms of their linguistic and their task processing capabilities",[152]
+08,"There was a widespread belief that progress could only be made on the two sides, one is
+ARPA Speech Understanding Research (SUR) project (Lea, 1980) and other in some major
+system developments projects building database front ends","(Lea, 1980)"
+08,", 1978) [55] were intended to go beyond LUNAR in interfacing the large databases",[55]
+08,"By the end of the decade the powerful general purpose sentence processors like SRI’s Core
+Language Engine (Alshawi,1992) [2] and Discourse Representation Theory (Kamp and
+Reyle,1993) [62] offered a means of tackling more extended discourse within the
+grammatico-logical framework",[2]; [62]
+08,", 1987) [18]",[18]
+09,"Multimedia Tools and Applications (2023) 82:3713–3744                                      3721
+
+
+but for the emphasis on heavy evaluation, starting a trend that became a major feature in 1990s
+(Young and Chase, 1998; Sundheim and Chinchor,1993) [131, 157]","[131, 157]"
+09,"Work on user modeling
+(Wahlster and Kobsa, 1989) [142] was one strand in a research paper",[142]
+09,"(2002) [28]
+had put forwarded a first approximation of a compositional theory of tune interpretation,
+together with phonological assumptions on which it is based and the evidence from which they
+have drawn their proposals",[28]
+09,"At the same time, McKeown (1985) [85] demonstrated that
+rhetorical schemas could be used for producing both linguistically coherent and communica-
+tively effective text",[85]
+09,", 1988) [126] and probabilistic networks, statistically colored NLP,
+the work on the lexicon, also pointed in this direction",[126]
+09,"Statistical language processing was a
+major thing in 90s (Manning and Schuetze,1999) [75], because this not only involves data
+analysts",[75]
+09,"Information extraction and automatic summarizing (Mani and Maybury,1999) [74]
+was also a point of focus",[74]
+09,"[12] proposed the concept of feed
+forward neural network and lookup table which represents the n previous words in sequence",[12]
+09,"[29] proposed the application of multitask learning in the field of NLP, where
+two convolutional models with max pooling were used to perform parts-of-speech and named
+entity recognition tagging",[29]
+09,"[87] proposed a word embedding process where the
+dense vector representation of text was addressed",[87]
+09,"[132] proposed a general framework for sequence-to-
+sequence mapping where encoder and decoder networks are used to map from sequence to
+vector and vector to sequence respectively",[132]
+09,"Later the use of CNNs can be observed in
+tackling problems associated with NLP tasks like Sentence Classification [127], Sentiment
+Analysis [135], Text Classification [118], Text Summarization [158], Machine Translation
+[70] and Answer Relations [150]",[127]; [135]; [118]; [158]; [70]; [150]
+09,"An article by Newatia (2019) [93] illustrates the general
+architecture behind any CNN model, and how it can be used in the context of NLP",[93]
+09,"One can
+also refer to the work of Wang and Gang [145] for the applications of CNN in NLP",[145]
+10,"3 A walkthrough of recent developments in NLP
+
+
+Neural Networks those are recurrent in nature due to performing the same function for every
+data, also known as Recurrent Neural Networks (RNNs), have also been used in NLP, and
+found ideal for sequential data such as text, time series, financial data, speech, audio, video
+among others, see article by Thomas (2019) [137]",[137]
+10,"One of the modified versions of RNNs is
+Long Short-Term Memory (LSTM) which is also very useful in the cases where only the
+desired important information needs to be retained for a much longer time discarding the
+irrelevant information, see [52, 58]","[52, 58]"
+10,"Further development in the LSTM has also led to a slightly
+simpler variant, called the gated recurrent unit (GRU), which has shown better results than
+standard LSTMs in many tasks [22, 26]","[22, 26]"
+10,"Attention mechanisms [7] which suggest a network to
+learn what to pay attention to in accordance with the current hidden state and annotation
+together with the use of transformers have also made a significant development in NLP, see
+[141]",[7]; [141]
+10,"[30] proposed a novel neural architecture Transformer-XL (XL as extra-
+long) which enables learning dependencies beyond a fixed length of words",[30]
+10,"[104] on the Compressive Transformer, an attentive sequence model which
+compresses memories for long-range sequence learning, may be helpful for the readers",[104]
+10,"[98] on uses of Deep Learning for NLP, and",[98]
+11,"The use of BERT (Bidirectional Encoder Representations
+from Transformers) [33] model and successive models have also played an important role for
+NLP",[33]
+11,",2003) [156] works by extracting sentiments about a given topic, and it consists
+of a topic specific feature term extraction, sentiment extraction, and association by relationship
+analysis",[156]
+11,", 2017) [160], Sanskrit (Tapswi & Jain, 2012) [136], Hindi (Ranjan &
+Basu, 2003) [105] to efficiently tag and classify words as nouns, adjectives, verbs etc",[160]; [136]; [105]
+11,"Authors
+in [136] have used treebank technique for creating rule-based POS Tagger for Sanskrit
+Language",[136]
+11,"(2004) [34] used supervised machine learning approach and adopted
+Support Vector Machines (SVMs) which were trained on the Arabic Treebank to automati-
+cally tokenize parts of speech tag and annotate base phrases in Arabic text",[34]
+11,", 2008) [83,
+122, 130] used CoNLL test data for chunking and used features composed of words, POS tags,
+and tags","[83,
+122, 130]"
+11,"Ritter (2011) [111] proposed the classification of named entities in tweets
+because standard NLP tools did not perform well on tweets",[111]
+11,"Sharma (2016) [124] analyzed the conversations in Hinglish
+means mix of English and Hindi languages and identified the usage patterns of PoS",[124]
+12,"(2020) [120] proposed an efficient emotion detection method by searching emotional
+words from a pre-defined emotional keyword database and analyzing the emotion words,
+phrasal verbs, and negation words",[120]
+12,", 2005) [100] formalism, one assigns roles to words that are
+arguments of a verb in the sentence",[100]
+12,",2011) [13], using a graphical model to
+analyze any social media feeds to determine whether it contains the name of a person or name
+of a venue, place, time etc",[13]
+12,", 1997) [138], generation string accuracy (Bangalore et al",[138]
+12,", 2000) [8], multi-reference
+word error rate (Nießen et al",[8]
+12,", 2000) [95], BLEU score (Papineni et al",[95]
+12,", 2002) [101], NIST
+score (Doddington, 2002) [35] All these criteria try to approximate human assessment and
+often achieve an astonishing degree of correlation to human subjective evaluation of fluency
+and adequacy (Papineni et al","[101]; [35]; (Doddington, 2002)"
+12,", 2001; Doddington, 2002) [35, 101]","[35, 101]"
+13,"For
+example, The Carnegie Group’s Construe system (Hayes, 1991) [54], inputs Reuters articles
+and saves much time by doing the work that is to be done by staff or human indexers","[54]; (Hayes, 1991)"
+13,"c) Spam Filtering
+
+It works using text categorization and in recent times, various machine learning techniques
+have been applied to text categorization or Anti-Spam Filtering like Rule Learning (Cohen
+1996) [27], Naïve Bayes (Sahami et al","[27]; (Cohen
+1996); (Cohen
+1996)"
+13,",2000) [5,
+109, 115],Memory based Learning (Sakkiset al","[5,
+109, 115]"
+13,",2000b) [117], Support vector machines
+(Druker et al",[117]
+13,", 1999) [36], Decision Trees (Carreras and Marquez, 2001) [19], Maximum
+Entropy Model (Berger et al",[36]; [19]
+13,"1996) [14], Hash Forest and a rule encoding method (T",[14]
+13,"Xia,
+2020) [153], sometimes combining different learners (Sakkis et al",[153]
+13,", 2001) [116]",[116]
+13,"The
+naïve bayes is preferred because of its performance despite its simplicity (Lewis, 1998) [67] In
+Text Categorization two types of models have been used (McCallum and Nigam, 1998) [77]","[67]; [77]; (Lewis, 1998)"
+13,", 2000) [5] [15]",[5]; [15]
+14,"In Information Retrieval two types of models have been used (McCallum and Nigam, 1998)
+[77]",[77]
+14,"Knowledge discovery research use a variety of techniques to extract useful information from
+source documents like Parts of Speech (POS) tagging, Chunking or Shadow Parsing, Stop-
+words (Keywords that are used and must be removed before processing documents), Stemming
+(Mapping words to some base for, it has two methods, dictionary-based stemming and Porter
+style stemming (Porter, 1980) [103]","[103]; (Porter, 1980)"
+14,"For example, CONSTRUE, it was developed for Reuters, that is used in
+classifying news stories (Hayes, 1992) [54]","[54]; (Hayes, 1992)"
+14,"PROMETHEE is a system that extracts lexico-syntactic patterns relative to a
+specific conceptual relation (Morin,1999) [89]",[89]
+14,", 1999) [16] approach for the
+analysis of a real-life natural language corpus that consists of responses to open-ended
+questionnaires in the field of advertising",[16]
+14,"(1998)
+[48]) that extracts information from life insurance applications",[48]
+14,"(1998) [1]
+suggested a mainstream framework for text mining that uses pragmatic and discourse level
+analyses of text",[1]
+15,2008 [159]; Fattah and Ren 2009 [43]),[159]; [43]
+15,"Summaries can also be of two types:
+generic or query-focused (Gong and Liu 2001 [50]; Dunlavy et al",[50]
+15,"2007 [37]; Wan 2008 [144];
+Ouyang et al",[37]; [144]
+15,2011 [99]),[99]
+15,"Summarization task can be either supervised or unsupervised (Mani
+and Maybury 1999 [74]; Fattah and Ren 2009 [43]; Riedhammer et al",[74]; [43]
+15,2010 [110]),[110]
+15,"2009 [146])
+–    Factorization with Given Bases (FGB) is a language model where sentence bases are the
+     given bases and it utilizes document-term and sentence term matrices",[146]
+15,"2011) [147])
+–    Topic Aspect-Oriented Summarization (TAOS) is based on topic factors",[147]
+15,"2015 [42])
+
+f) Dialogue System
+
+Dialogue systems are very prominent in real world applications ranging from providing
+support to performing a particular action",[42]
+15,"(Liddy, 2001) [68]","[68]; (Liddy, 2001)"
+15,"The Linguistic String Project-Medical Language Processor
+is one the large scale projects of NLP in the field of medicine [21, 53, 57, 71, 114]","[21, 53, 57, 71, 114]"
+15,"The LSP-
+MLP helps enabling physicians to extract and summarize information of any signs or
+symptoms, drug dosage and response data with the aim of identifying possible side effects
+of any medicine while highlighting or flagging data items [114]",[114]
+16,"The Centre d’Informatique Hospitaliere
+of the Hopital Cantonal de Geneve is working on an electronic archiving environment with
+NLP features [81, 119]","[81, 119]"
+16,"At later stage the
+LSP-MLP has been adapted for French [10, 72, 94, 113], and finally, a proper NLP system
+called RECIT [9, 11, 17, 106] has been developed using a method called Proximity Processing
+[88]","[10, 72, 94, 113]; [9, 11, 17, 106]; [88]"
+16,"It’s task was to implement a robust and multilingual system able to analyze/comprehend
+medical sentences, and to preserve a knowledge of free text into a language independent
+knowledge representation [107, 108]","[107, 108]"
+16,"The Columbia university of New York has developed an
+NLP system called MEDLEE (MEDical Language Extraction and Encoding System) that
+identifies clinical information in narrative reports and transforms the textual information into
+structured representation [45]",[45]
+16,"3 NLP in talk
+
+We next discuss some of the recent NLP projects implemented by various companies:
+
+a) ACE Powered GDPR Robot Launched by RAVN Systems [134]
+
+RAVN Systems, a leading expert in Artificial Intelligence (AI), Search and Knowledge
+Management Solutions, announced the launch of a RAVN (“Applied Cognitive Engine”)
+i",[134]
+16,"com/stocks/news/read/33888795/RAVN_Systems_
+Launch_the_ACE_Powered_GDPR_Robot
+
+b) Eno A Natural Language Chatbot Launched by Capital One [56]
+
+Capital One announces a chatbot for customers called Eno",[56]
+17,"com/analysis/capital-one-natural-language-chatbot-eno/
+
+c) Future of BI in Natural Language Processing [140]
+
+Several companies in BI spaces are trying to get with the trend and trying hard to ensure that
+data becomes more friendly and easily accessible",[140]
+17,"com/eran-levy/489410/here-s-why-natural-language-
+processing-future-bi
+
+d) Using Natural Language Processing and Network Analysis to Develop a Conceptual
+   Framework for Medication Therapy Management Research [97]
+
+Natural Language Processing and Network Analysis to Develop a Conceptual Framework for
+Medication Therapy Management Research describes a theory derivation process that is used
+to develop a conceptual framework for medication therapy management (MTM) research",[97]
+17,"dopt=Abstract
+
+e) Meet the Pilot, world’s first language translating earbuds [96]
+
+The world’s first smart earpiece Pilot will soon be transcribed over 15 languages",[96]
+18,"introduced SST containing sentiment
+   labels for 215,154 phrases in parse trees for 11,855 sentences from movie reviews posing
+   novel sentiment compositional difficulties [127]",[127]
+19,in 2011 [73],[73]
+19,"The folder
+   “Song Lyrics” in the corpus contains 339 Telugu song lyrics written in Telugu script
+   [121]",[121]
+19,"Its context is limited
+   since it comprises sentences rather than paragraphs [76]",[76]
+19,in) which has cataloged datasets [24],[24]
+19,"It is
+   available in 21 European languages [40]",[40]
+20,"The neural learning models are overtaking traditional models for NLP [64, 127]","[64, 127]"
+20,"In [64],
+authors used CNN (Convolutional Neural Network) model for sentiment analysis of movie
+reviews and achieved 81",[64]
+20,"Authors [127] have combined SST and
+Recursive Neural Tensor Network for sentiment analysis of the single sentence",[127]
+20,"Authors [135] proposed a combined Recurrent Neural Network and Transformer
+model for sentiment analysis",[135]
+20,"[118] introduced a rational recurrent neural network with the capacity to learn
+on classifying the information and perform complex reasoning based on the interactions
+between compartmentalized information",[118]
+20,"[86] extended conventional word-level language models based on Quasi-
+Recurrent Neural Network and LSTM to handle the granularity at character and word level",[86]
+20,"[70] used neural machine translation on the WMT14 dataset and performed
+translation of English text to French text",[70]
+21,"[41] introduced a gradient-based neural architecture search algorithm that
+automatically finds architecture with better performance than a transformer, conventional
+NMT models",[41]
+21,"[150] introduced a deep learning approach based on domain adaptation
+techniques for handling biomedical question answering tasks",[150]
+21,"[158] designed a Memory-Augmented-Machine-Comprehension-Network
+(MAMCN) to handle dependencies faced in reading comprehension",[158]
+21,"[154] proposed a neural architecture where candidate answers and their repre-
+sentation learning are constituent centric, guided by a parse tree",[154]
+21,This helps the automatic process of natural languages [92],[92]
+21,"Srihari [129] explains
+the different generative models as one with a resemblance that is used to spot an unknown
+speaker’s language and would bid the deep knowledge of numerous languages to perform the
+match",[129]
+21,"Whereas generative models can become troublesome when
+many features are used and discriminative models allow use of more features [38]",[38]
+22,"(2019) [61] used ML and AI to create a question-and-answer system for
+retrieving information about hearing loss",[61]
+22,"HMM is not restricted to this
+application; it has several others such as bioinformatics problems, for example, multiple
+sequence alignment [128]",[128]
+22,"HMM may be used for a variety of
+NLP applications, including word prediction, sentence production, quality assurance, and
+intrusion detection systems [133]",[133]
+22,"Initially focus was on feedforward [49] and
+CNN (convolutional neural network) architecture [69] but later researchers adopted recurrent
+neural networks to capture the context of a word with respect to surrounding words of a
+sentence",[49]; [69]
+23,"[47] In order to observe the word arrange-
+ment in forward and backward direction, bi-directional LSTM is explored by researchers [59]",[47]; [59]
+23,"[25, 33, 90, 148]","[25, 33, 90, 148]"
+23,[90] used the BERT model to analyze the tweets on covid-19 content,[90]
+23,[20],[20]
+25,"One may further refer to the work of Sharifirad and Matwin (2019) [123] for
+classification of different online harassment categories and challenges, Baclic et",[123]
+25,"(2020) [6]
+and Wong et al",[6]
+25,"(2018) [151] for challenges and opportunities in public health, Kang et",[151]
+25,"(2020) [63] for detailed literature survey and technological challenges relevant to management
+research and NLP, and a recent review work by Alshemali and Kalita (2020) [3], and
+references cited there in",[63]; [3]
+25,"In the recent past, models dealing with Visual Commonsense Reasoning [31] and NLP
+have also been getting attention of the several researchers and seems a promising and
+challenging area to work upon",[31]
+25,"In this direction, recently Wen and Peng (2020) [149] suggested a model to capture
+knowledge from different perspectives, and perceive common sense in advance, and the results
+based on the conducted experiments on visual commonsense reasoning dataset VCR seems
+very satisfactory and effective",[149]
+25,"The work of Peng and Chi (2019) [102], that proposes Domain
+Adaptation with Scene Graph approach to transfer knowledge from the source domain with the
+objective to improve cross-media retrieval in the target domain, and Yen et al",[102]
+25,"(2019) [155] is
+also very useful to further explore the use of NLP and in its relevant domains",[155]
+26,"3738                                                     Multimedia Tools and Applications (2023) 82:3713–3744
+
+
+that even though a great amount of work on natural language processing is available in
+literature surveys (one may refer to [15, 32, 63, 98, 133, 151] focusing on one domain such
+as usage of deep-learning techniques in NLP, techniques used for email spam filtering,
+medication safety, management research, intrusion detection, and Gujarati language etc","[15, 32, 63, 98, 133, 151]"
+27,"[5]
+ 18",[5]
+30,"In Proceedings of the 1st International Conference on Natural Language
+     Processing (ICON 2003)
+106",(ICON 2003); (ICON 2003)
